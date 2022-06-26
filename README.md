@@ -1,2 +1,3 @@
-# code-challenge
-code challenge by Andrew
+# Code challenge task 
+
+This code challenge task given by Andrew
